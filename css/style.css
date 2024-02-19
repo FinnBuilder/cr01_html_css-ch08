@@ -66,3 +66,38 @@
     padding: 10px;
 }
 
+.uberE{
+   
+    margin-top: 20px;
+    width: 500px;
+    padding: 6px;
+}
+
+.titleE {
+    font-size: 28px;
+    padding: 16px;
+}
+
+.uberBoxE {
+    background-color: #e4e0e0;
+    border: none;
+    display: block;
+    width: 400px;
+    padding: 10px;
+    margin: 6px 0px;
+    padding-left: 20px;
+}
+
+.buttonE {
+    margin: 10px;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+}
+
+.btnRequestE{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border: none;
+}
